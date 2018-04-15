@@ -1,0 +1,11 @@
+dataset_1\IRIS_ID_1.txt
+dataset_1\Timestamp_1.txt
+dataset_1\Year_1.txt
+dataset_1\Month_1.txt
+dataset_1\Day_1.txt
+dataset_1\Time_1.txt
+dataset_1\Latitude_1.txt
+dataset_1\Longitude_1.txt
+dataset_1\Magnitude_1.txt
+dataset_1\Depth_1.txt
+dataset_1\Region_1.txt
